@@ -3,10 +3,10 @@
 public class Main {
     public static void main(String[] args) {
         try {
-            Route route1 = new Route("Address A", "Address B", 100);
-            Route route2 = new Route("Address C", "Address D", 200);
-            Route route3 = new Route("Address E", "Address F", 300);
-            Route route4 = new Route("Address G", "Address H", 400);
+            Route route1 = new Route("Address1", "Address2", 100);
+            Route route2 = new Route("Address3", "Address4", 200);
+            Route route3 = new Route("Address5", "Address6", 300);
+            Route route4 = new Route("Address7", "Address8", 400);
 
 
             Car car1 = new Car("Car1", route1, 4);
